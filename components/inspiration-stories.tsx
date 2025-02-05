@@ -22,19 +22,19 @@ const stories: Story[] = [
     id: 1,
     user: {
       name: "Sarah Johnson",
-      avatar: "/placeholder-avatar-1.jpg",
+      avatar: "/avatar123.png",
     },
     content: "Just completed my first marathon! It was tough, but so worth it. Never give up on your dreams! 🏃‍♀️🏅",
-    image: "/placeholder-marathon.jpg",
+    image: "/placeholder123.png",
   },
   {
     id: 2,
     user: {
       name: "Mike Thompson",
-      avatar: "/placeholder-avatar-2.jpg",
+      avatar: "/avatar12.png",
     },
     content: "6 months of consistent weightlifting and proper nutrition. The transformation is real! 💪🏋️‍♂️",
-    image: "/placeholder-weightlifting.jpg",
+    image: "/placeholder12.png",
   },
   // Add more stories here
 ]

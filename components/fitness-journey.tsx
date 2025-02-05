@@ -20,21 +20,21 @@ const journeyItems: JourneyItem[] = [
     title: "First 5K Run",
     description: "Completed my first 5K run in 30 minutes!",
     date: "2023-05-15",
-    image: "/placeholder-5k.jpg",
+    image: "/placeholder-user.jpg",
   },
   {
     id: 2,
     title: "30-Day Plank Challenge",
     description: "Successfully held a 5-minute plank!",
     date: "2023-06-20",
-    image: "/placeholder-plank.jpg",
+    image: "/placeholder11.png",
   },
   {
     id: 3,
     title: "100 Workouts Milestone",
     description: "Reached 100 workouts on FitConnect!",
     date: "2023-07-30",
-    image: "/placeholder-workout.jpg",
+    image: "/100workout.jpg",
   },
 ]
 

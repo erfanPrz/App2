@@ -13,7 +13,7 @@ const samplePosts = [
     },
     content: {
       text: "Just finished an intense HIIT session! Feeling great and energized. 💪🔥",
-      images: ["/placeholder.svg?height=300&width=600"],
+      images: ["/placeholder.jpg?height=300&width=600"],
     },
     timestamp: "2 hours ago",
     likes: 15,
